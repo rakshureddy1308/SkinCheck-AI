@@ -1,7 +1,5 @@
 # SkinCheck AI
 
-![SkinCheck AI Banner](https://via.placeholder.com/1000x300?text=SkinCheck+AI+-+Your+AI+Dermatologist)
-
 ## 🌟 About SkinCheck AI
 SkinCheck AI is an advanced AI-powered platform that detects skin diseases by analyzing uploaded images. Users can simply take a picture of their skin condition, and the AI provides insights, potential diagnoses, and recommendations for further action.
 
